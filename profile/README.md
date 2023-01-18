@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-This is **NexusKrop**, an organisation for all the stuff that is modding related. Non-modding related (generic) projects are carried over to more-OSS oriented platforms.
+<img src="NXBlue_HD_Text_Large.png" height="128" width="485" alt="Brand" />
+
+This is **NexusKrop** project. We make game mods, game related stuff as well as generic software.
 
 ### Contributing to the project
 
