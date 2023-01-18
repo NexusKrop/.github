@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="NXBlue_HD_Text_Large.png" height="128" width="485" alt="Brand" />
+<img src="https://github.com/NexusKrop/.github/blob/main/profile/NXBlue_HD_Text_Large.png" height="128" width="485" alt="Brand" />
 
 This is **NexusKrop** project. We make game mods, game related stuff as well as generic software.
 
