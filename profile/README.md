@@ -1,20 +1,21 @@
-## Hi there 👋
+## Organisation Withdrawal from GitHub
 
-<img src="https://github.com/NexusKrop/.github/blob/main/profile/NXBlue_HD_Text_Large.png" height="128" width="485" alt="Brand" />
+All projects in this organisation are subject to general withdrawal, due to current community status and
+GitHub platform crisis orginated from recent product changes.
 
-This is **NexusKrop** project. We make game mods, game related stuff as well as generic software.
+General withdrawel will begin from 4 Feb 2023.
 
-### Contributing to the project
+### What happened?
 
-Varies. Follow the guidelines if there is one in the repo you wanna contribute to; if not, it's probably wise to follow the Covenant.
+GitHub Copilot is not clear about GNU General Public License and copyleft-in-general compliance. To avoid
+creating risk with its users, this project is moving to [a new home](https://codeberg.org/NexusKrop) where
+projects will be hosted.
 
-<!--
+### Will you came back?
 
-**Here are some ideas to get you started:**
+Not sure.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### What about WithLithum?
+
+Any software developed on his own behalf will only be uploaded if it is related to Grand Theft Auto V modding, unless
+anything changes in result of actions by GitHub.
