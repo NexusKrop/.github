@@ -16,5 +16,4 @@ NexusKrop wants to see a resolution as soon as possible, but the copyright of pu
 This dispute currently does not impact the services and operation of GitHub, Inc. as of now but we advice to reconsider hosting if any of your project uses a licence
 that is stricter than the MIT/Expat licence, even only slightly, until the disputes are resolved.
 
-As for now, please refrain from using templates provided by NGOs (also avoid mentioning "give up" and such) until you have moved and archived all projects and are confident that you will no longer use
-GitHub for the rest of your life.
+As for now, please refrain from using templates provided by NGOs.
