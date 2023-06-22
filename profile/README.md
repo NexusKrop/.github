@@ -1,4 +1,4 @@
-![Banner](Banner-primary.png)
+![Banner](https://github.com/NexusKrop/.github/blob/main/profile/Banner-primary.png)
 
 [![NexusKrop on GitLab](https://github.com/NexusKrop/.github/blob/main/profile/banner-Repos-GitLab.png)](https://gitlab.com/NexusKrop)
 [![NexusKrop on Gitea](https://github.com/NexusKrop/.github/blob/main/profile/banner-Repos.png)](https://gitea.com/NexusKrop)
