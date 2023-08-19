@@ -1,15 +1,10 @@
 # Dependency Guidelines
 
-This documentation serves as the rules of which dependencies may or may not be used in NexusKrop projects.
-
 ## .NET
 
-### Explicit Prohibition
+### Replace or Remove
 
-- `nugetizer`, `Moq`, `This Assembly` and all other NuGet packages made by the same authors as of the packages above
-- Any commerical stuff requiring purchase
-- SponsorLink or anything with the same objective (or anything that depends on such).
-
-### Rules
-
-- No `SponsorLink`. If any slowdowns were caused by SponsorLink-ed projects, such dependencies must be forked or replaced with another dependency. We do not accept SponsorLink, and we urge you not to sponsor any projects using SponsorLink. *Any contributions adding SponsorLink or dependencies which depends on it or have dependencies depend on it, etc. will be refused.*
+- Moq: Either `NSubstitute` or [our own Moq build](https://codeberg.org/NexusKrop/moq-build).
+- Nugetizer, ThisAssembly, and anything that depends on SponsorLink: No way, unless it is a fork/build which have no SponsorLink.
+- SponsorLink itself.
+- All of commerical libraries: No way.
