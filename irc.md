@@ -1,3 +1,3 @@
-# IRC Channel
+# STOP!
 
-Join our IRC channel `#nexuskrop` at `irc.rizon.net`!
+Our IRC have since closed and you should not chat on it anymore.
